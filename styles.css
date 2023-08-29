@@ -15,11 +15,12 @@
     grid-template-columns: 1fr 1fr;
     max-width: 900px;
     padding: 20px;
-
     margin-top: 5rem;
 }
 
-
+.fa-cart-shopping {
+    margin-right: 5px;
+}
 
 .left-section img {
     width: 100%;
